@@ -1,0 +1,17 @@
+
+.Clock
+{
+	
+	color:gray;
+	position:absolute;
+	font-size:30px;
+	left: 460px;
+	top:450px;
+
+}
+.AnalogClock
+{
+background-color:white;	
+	
+		
+}
